@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>Wonderful Notch</title>
+        <!-- items -->
+        <item>
+            <title>0.7 (2)</title>
+            <pubDate>Thu, 19 Nov 2026 23:14:37 +0000</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>0.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/jojoyel/wonderful-notch-releases/releases/download/v0.7-2/WonderfulNotch-0.7-2.dmg" type="application/octet-stream" sparkle:edSignature="zURmMiLuDSk6ZwBYJUR3RUd9rjadVT8cR3P/J49JDdLwJkG0ie79wH5qSmwV63mPJChUFVtH/ig6EEOUNmDFCQ==" length="4174994" />
+        </item>
+    </channel>
+</rss>
