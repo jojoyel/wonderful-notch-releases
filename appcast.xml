@@ -4,6 +4,21 @@
         <title>Wonderful Notch</title>
         <!-- items -->
         <item>
+            <title>0.7 (3)</title>
+            <pubDate>Fri, 20 Nov 2026 10:48:49 +0000</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>0.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+<ul>
+  <li>Achat d'une licence directement depuis l'app (Réglages › À propos) / Buy a license from the app (Settings › About)</li>
+  <li>Nouveau bouton « Offrir un café » pour soutenir le développement / New "Buy Me a Coffee" button to support development</li>
+  <li>Page À propos : adresse de la licence masquée, meilleur affichage sur petite fenêtre / About page: hidden license email, better layout in small windows</li>
+</ul>
+            ]]></description>
+            <enclosure url="https://github.com/jojoyel/wonderful-notch-releases/releases/download/v0.7-3/WonderfulNotch-0.7-3.dmg" type="application/octet-stream" sparkle:edSignature="zpvOGI3qSNA1EwmdI/yiL8Oy43NxkItVuGP5xu1dnmMODepz/ohXxMUha8s1g5KQzerNrA3fEo0Ojo5MPaAhCQ==" length="4175453" />
+        </item>
+        <item>
             <title>0.7 (2)</title>
             <pubDate>Thu, 19 Nov 2026 23:14:37 +0000</pubDate>
             <sparkle:version>2</sparkle:version>
