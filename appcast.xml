@@ -4,6 +4,28 @@
         <title>Wonderful Notch</title>
         <!-- items -->
         <item>
+            <title>0.9 (4)</title>
+            <pubDate>Sun, 22 Nov 2026 20:18:41 +0000</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>0.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+<ul>
+  <li>Nouvelle page Horloge : heure, lever et coucher du Soleil et de la Lune, phase de la Lune, calculés sur le Mac / New Clock page: time, sunrise and sunset, moonrise and moonset, moon phase, computed on your Mac</li>
+  <li>Nouvelle page Hydratation : objectif du jour, boissons en un clic et rappel facultatif (notification ou encoche) / New Hydration page: daily goal, one-click drinks and optional reminder (notification or notch)</li>
+  <li>Chronomètre avec tours dans la page Minuteur / Stopwatch with laps in the Timer page</li>
+  <li>Minuteur repensé : durée à saisir au clavier ou règle graduée à faire glisser / Redesigned timer: type a duration or drag the ruler</li>
+  <li>Aperçu au survol : morceau, minuteur et chronomètre ensemble, un clic ouvre la page ; horloge en option quand rien n'est en cours / Hover preview: track, timer and stopwatch together, click to open the page; optional clock when nothing is playing</li>
+  <li>Agenda : calendrier du mois avec pastilles de couleur / Calendar: month view with colored dots</li>
+  <li>Alerte de téléchargement terminé dans les ailes, avec ajout au Bac (option) / Download finished alert in the wings, with add to Shelf (optional)</li>
+  <li>Icônes des pages en haut ou en bas du panneau, au choix / Page icons at the top or bottom of the panel</li>
+  <li>Réglages regroupés par catégorie / Settings grouped by category</li>
+  <li>Présentation au premier lancement pour les nouvelles installations / Welcome tour on first launch for new installs</li>
+</ul>
+            ]]></description>
+            <enclosure url="https://github.com/jojoyel/wonderful-notch-releases/releases/download/v0.9-4/WonderfulNotch-0.9-4.dmg" type="application/octet-stream" sparkle:edSignature="GLznd+Xx+vH/goEOBmdnLb30ETFa8RKHRVNpOXnUDm9LEE7pmrWMmog/lUtKbGFACZKB88C7BIYAC51BkEMDCQ==" length="4794314" />
+        </item>
+        <item>
             <title>0.7 (3)</title>
             <pubDate>Fri, 20 Nov 2026 10:48:49 +0000</pubDate>
             <sparkle:version>3</sparkle:version>
