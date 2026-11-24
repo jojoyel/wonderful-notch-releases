@@ -13,7 +13,7 @@
 <ul>
   <li>Bac : jusqu'à trois bacs nommables, un onglet par bac, fichiers déplaçables d'un bac à l'autre / Shelf: up to three named shelves, one tab each, move files between them</li>
   <li>Notes : quatre notes (A à D), une lettre pour passer de l'une à l'autre / Notes: four notes (A to D), click a letter to switch</li>
-  <li>Notes : copie facultative dans l'app Notes, et bouton d'archivage qui range la note dans Notes avant de la vider / Notes: optional copy to the Notes app, and an archive button that saves the note to Notes before clearing it</li>
+  <li>Notes : copie facultative dans l'app Apple Notes, et bouton d'archivage qui range la note dans Apple Notes avant de la vider / Notes: optional copy to the Notes app, and an archive button that saves the note to Notes before clearing it</li>
   <li>Nouvelle page Volumes : disques externes, cartes SD et images disque, avec remplissage et Éjecter / New Volumes page: external drives, SD cards and disk images, with usage bar and Eject</li>
   <li>Volumes dans l'aperçu au survol (un clic ouvre le Finder) et dans le Bac pour y copier des fichiers (options) / Volumes in the hover preview (click to open in Finder) and in the Shelf to copy files onto them (optional)</li>
   <li>Prochain évènement de l'agenda dans les ailes, de 5 min à 2 h avant son début, et dans l'aperçu avec son lien de visio (option) / Next calendar event in the wings, 5 min to 2 h before it starts, and in the hover preview with its video call link (optional)</li>
